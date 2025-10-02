@@ -1,0 +1,19 @@
+<svg width="220" height="60" viewBox="0 0 220 60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="MediCore logo">
+  <title>MediCore</title>
+  <style>
+    .text {
+      font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
+      font-size: 36px;
+      font-weight: 600;
+      dominant-baseline: middle;
+    }
+    .medi {
+      fill: #0077cc; /* Calm medical blue */
+    }
+    .core {
+      fill: #222222; /* Neutral dark */
+    }
+  </style>
+
+  <text x="0" y="38" class="text medi">MediCore</text>
+</svg>
